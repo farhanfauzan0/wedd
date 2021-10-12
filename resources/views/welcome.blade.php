@@ -3009,7 +3009,7 @@ flexibility(document.documentElement);
                                                                         <ul class="elementor-icon-list-items">
                                                                             <li class="elementor-icon-list-item">
                                                                                 <span
-                                                                                    class="elementor-icon-list-text">Jumat,
+                                                                                    class="elementor-icon-list-text">Minggu,
                                                                                     24 Oktober 2021</span>
                                                                             </li>
                                                                             <li class="elementor-icon-list-item">
