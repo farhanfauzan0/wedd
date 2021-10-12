@@ -1,0 +1,462 @@
+.elementor-kit-58 {
+    --e-global-color-primary: #6ec1e4;
+    --e-global-color-secondary: #54595f;
+    --e-global-color-text: #7a7a7a;
+    --e-global-color-accent: #61ce70;
+    --e-global-color-753063a1: #4054b2;
+    --e-global-color-2b4910ff: #23a455;
+    --e-global-color-5d4717ee: #000;
+    --e-global-color-461e7076: #fff;
+    --e-global-color-0da860b: #b7a58b;
+    --e-global-color-3414219: #8b7254;
+    --e-global-typography-primary-font-family: "Roboto";
+    --e-global-typography-primary-font-weight: 600;
+    --e-global-typography-secondary-font-family: "Roboto Slab";
+    --e-global-typography-secondary-font-weight: 400;
+    --e-global-typography-text-font-family: "Roboto";
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-accent-font-family: "Roboto";
+    --e-global-typography-accent-font-weight: 500;
+    --e-global-typography-d2fe590-font-family: "Arial";
+    --e-global-typography-d2fe590-font-size: 25px;
+    --e-global-typography-d2fe590-font-weight: bold;
+    --e-global-typography-d2fe590-text-transform: none;
+    --e-global-typography-d2fe590-font-style: normal;
+    --e-global-typography-d2fe590-text-decoration: none;
+    --e-global-typography-eee7423-font-family: "Arial";
+    --e-global-typography-eee7423-font-size: 16px;
+    --e-global-typography-eee7423-font-weight: 100;
+    --e-global-typography-eee7423-text-transform: none;
+    --e-global-typography-eee7423-font-style: normal;
+    --e-global-typography-eee7423-text-decoration: none;
+    --e-global-typography-eee7423-line-height: 1.2em;
+    --e-global-typography-eee7423-letter-spacing: 0px;
+    --e-global-typography-ffae33b-font-size: 45px;
+    --e-global-typography-ffae33b-font-weight: 500;
+    --e-global-typography-ffae33b-text-transform: none;
+    --e-global-typography-bfe12c6-font-family: "Arial";
+    --e-global-typography-bfe12c6-font-size: 16px;
+    --e-global-typography-bfe12c6-font-weight: bold;
+    --e-global-typography-bfe12c6-text-transform: none;
+    --e-global-typography-bfe12c6-font-style: normal;
+    --e-global-typography-bfe12c6-text-decoration: none;
+    --e-global-typography-bfe12c6-line-height: 1.2em;
+    --e-global-typography-bfe12c6-letter-spacing: 0px;
+    --e-global-typography-c197515-font-family: "Arial";
+    --e-global-typography-2dbe83b-font-family: "Arial";
+    --e-global-typography-2dbe83b-font-weight: bold;
+    --e-global-typography-2dbe83b-text-transform: uppercase;
+    --e-global-typography-2dbe83b-font-style: normal;
+    --e-global-typography-2dbe83b-text-decoration: none;
+    --e-global-typography-2dbe83b-letter-spacing: 0px;
+    --e-global-typography-9eec01a-font-family: "Arial";
+    --e-global-typography-9eec01a-font-size: 25px;
+    --e-global-typography-9eec01a-font-weight: 100;
+    --e-global-typography-9eec01a-text-transform: none;
+    --e-global-typography-9eec01a-font-style: normal;
+    --e-global-typography-9eec01a-text-decoration: none;
+    --e-global-typography-9eec01a-line-height: 1.2em;
+    --e-global-typography-9eec01a-letter-spacing: 0px;
+    --e-global-typography-9d1a303-font-family: "Arial";
+    --e-global-typography-9d1a303-font-size: 30px;
+    --e-global-typography-9d1a303-font-weight: bold;
+    --e-global-typography-9d1a303-text-transform: none;
+    --e-global-typography-9d1a303-text-decoration: none;
+    --e-global-typography-9d1a303-line-height: 1.5em;
+    --e-global-typography-9d1a303-letter-spacing: 0px;
+    --e-global-typography-3745dca-font-family: "Arial";
+    --e-global-typography-3745dca-font-size: 20px;
+    --e-global-typography-3745dca-font-weight: bold;
+    --e-global-typography-3745dca-text-transform: none;
+    --e-global-typography-d73c64a-font-family: "Arial";
+    --e-global-typography-d73c64a-font-size: 14px;
+    --e-global-typography-d73c64a-line-height: 1.5em;
+    --e-global-typography-d6ffca6-font-family: "Lato";
+    --e-global-typography-d6ffca6-font-size: 16px;
+    --e-global-typography-d6ffca6-font-style: normal;
+    --e-global-typography-d6ffca6-line-height: 1.4em;
+    color: #625f5f;
+    font-size: 16px;
+    line-height: 1.6em;
+}
+.elementor-kit-58 a {
+    color: #7a7a7a;
+    font-weight: 400;
+}
+.elementor-kit-58 a:hover {
+    color: #1a6c7a;
+}
+.elementor-kit-58 h1 {
+    color: #000f2b;
+    font-size: 65px;
+    font-weight: 500;
+    line-height: 1.5em;
+}
+.elementor-kit-58 h2 {
+    color: #000f2b;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 1.5em;
+    letter-spacing: 2.5px;
+}
+.elementor-kit-58 h3 {
+    color: #000f2b;
+    font-size: 22px;
+    line-height: 1.5em;
+    letter-spacing: 2.5px;
+}
+.elementor-kit-58 h4 {
+    color: #000f2b;
+}
+.elementor-kit-58 h5 {
+    color: #000f2b;
+}
+.elementor-kit-58 h6 {
+    color: #000f2b;
+}
+.elementor-kit-58 button,
+.elementor-kit-58 input[type="button"],
+.elementor-kit-58 input[type="submit"],
+.elementor-kit-58 .elementor-button {
+    color: #ffffff;
+    background-color: rgba(2, 1, 1, 0);
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 0px 0px 0px 0px;
+    padding: 16px 40px 16px 40px;
+}
+.elementor-kit-58 button:hover,
+.elementor-kit-58 button:focus,
+.elementor-kit-58 input[type="button"]:hover,
+.elementor-kit-58 input[type="button"]:focus,
+.elementor-kit-58 input[type="submit"]:hover,
+.elementor-kit-58 input[type="submit"]:focus,
+.elementor-kit-58 .elementor-button:hover,
+.elementor-kit-58 .elementor-button:focus {
+    color: #ffffff;
+    background-color: #07070794;
+}
+.elementor-section.elementor-section-boxed > .elementor-container {
+    max-width: 1140px;
+}
+.elementor-widget:not(:last-child) {
+    margin-bottom: 20px;
+}
+ {
+}
+h1.entry-title {
+    display: var(--page-title-display);
+}
+@media (max-width: 1024px) {
+    .elementor-kit-58 {
+        --e-global-typography-d2fe590-font-size: 25px;
+        --e-global-typography-eee7423-font-size: 16px;
+        --e-global-typography-eee7423-line-height: 1.2em;
+        --e-global-typography-eee7423-letter-spacing: 0px;
+        --e-global-typography-ffae33b-font-size: 35px;
+        --e-global-typography-bfe12c6-font-size: 16px;
+        --e-global-typography-bfe12c6-line-height: 1.2em;
+        --e-global-typography-bfe12c6-letter-spacing: 0px;
+        --e-global-typography-9eec01a-font-size: 25px;
+        --e-global-typography-9eec01a-line-height: 1.2em;
+        --e-global-typography-9eec01a-letter-spacing: 0px;
+        --e-global-typography-9d1a303-font-size: 30px;
+        --e-global-typography-9d1a303-line-height: 1.5em;
+        --e-global-typography-9d1a303-letter-spacing: 0px;
+        --e-global-typography-3745dca-font-size: 18px;
+        --e-global-typography-d6ffca6-font-size: 16px;
+        --e-global-typography-d6ffca6-line-height: 1.5em;
+    }
+    .elementor-kit-58 h1 {
+        font-size: 50px;
+    }
+    .elementor-kit-58 h2 {
+        font-size: 26px;
+    }
+    .elementor-section.elementor-section-boxed > .elementor-container {
+        max-width: 1024px;
+    }
+}
+@media (max-width: 767px) {
+    .elementor-kit-58 {
+        --e-global-typography-d2fe590-font-size: 25px;
+        --e-global-typography-d2fe590-line-height: 1.2em;
+        --e-global-typography-d2fe590-letter-spacing: 0px;
+        --e-global-typography-eee7423-font-size: 14px;
+        --e-global-typography-eee7423-line-height: 1.2em;
+        --e-global-typography-eee7423-letter-spacing: 0px;
+        --e-global-typography-ffae33b-font-size: 30px;
+        --e-global-typography-bfe12c6-font-size: 16px;
+        --e-global-typography-bfe12c6-line-height: 1.2em;
+        --e-global-typography-bfe12c6-letter-spacing: 0px;
+        --e-global-typography-c197515-font-size: 16px;
+        --e-global-typography-2dbe83b-font-size: 16px;
+        --e-global-typography-2dbe83b-line-height: 1.2em;
+        --e-global-typography-2dbe83b-letter-spacing: 0px;
+        --e-global-typography-9eec01a-line-height: 1.2em;
+        --e-global-typography-9eec01a-letter-spacing: 0px;
+        --e-global-typography-9d1a303-font-size: 25px;
+        --e-global-typography-9d1a303-line-height: 1.2em;
+        --e-global-typography-9d1a303-letter-spacing: 0px;
+        --e-global-typography-d73c64a-font-size: 14px;
+        --e-global-typography-d6ffca6-font-size: 15px;
+        --e-global-typography-d6ffca6-line-height: 1.5em;
+    }
+    .elementor-kit-58 h1 {
+        font-size: 30px;
+    }
+    .elementor-section.elementor-section-boxed > .elementor-container {
+        max-width: 767px;
+    }
+} /* Start custom CSS */
+.snowpink-bg {
+    position: relative;
+}
+
+.snowpink-bg:after {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: 11;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background-image: url("https://kondangankuy.com/wp-content/uploads/2021/07/s1-pink.png"),
+        url("https://kondangankuy.com/wp-content/uploads/2021/07/s2-pink.png"),
+        url("https://kondangankuy.com/wp-content/uploads/2021/07/s3-pink.png");
+    animation: snow 25s linear infinite;
+}
+
+@keyframes snow {
+    0% {
+        background-position: 0px 0px, 0px 0px, 0px 0px;
+    }
+    50% {
+        background-position: 500px 500px, 100px 200px, -100px 150px;
+    }
+    100% {
+        background-position: 500px 1000px, 200px 400px, -100px 300px;
+    }
+}
+
+.salju-back {
+    position: relative;
+}
+
+.salju-back:after {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: 11;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background-image: url("https://kondangankuy.com/wp-content/uploads/2021/07/s1-putih.png"),
+        url("https://library.elementor.com/resources/christmas-snow-effect/s2.png"),
+        url("https://library.elementor.com/resources/christmas-snow-effect/s3.png");
+    animation: snow 30s linear infinite;
+}
+
+@keyframes snow {
+    0% {
+        background-position: 0px 0px, 0px 0px, 0px 0px;
+    }
+    50% {
+        background-position: 500px 500px, 100px 200px, -100px 150px;
+    }
+    100% {
+        background-position: 500px 1000px, 200px 400px, -100px 300px;
+    }
+}
+
+.salju-pink {
+    position: relative;
+}
+
+.salju-pink:after {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: 11;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background-image: url("https://kondangankuy.com/wp-content/uploads/2021/07/s1-pink-1.png"),
+        url("https://kondangankuy.com/wp-content/uploads/2021/07/s2-pink-1.png"),
+        url("https://kondangankuy.com/wp-content/uploads/2021/07/s3-pink-1.png");
+    animation: snow 30s linear infinite;
+}
+
+@keyframes snow {
+    0% {
+        background-position: 0px 0px, 0px 0px, 0px 0px;
+    }
+    50% {
+        background-position: 500px 500px, 100px 200px, -100px 150px;
+    }
+    100% {
+        background-position: 500px 1000px, 200px 400px, -100px 300px;
+    }
+}
+
+.salju-cherry {
+    position: relative;
+}
+
+.salju-cherry:after {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: 11;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background-image: url("https://kondangankuy.com/wp-content/uploads/2021/07/s1-cherry.png"),
+        url("https://kondangankuy.com/wp-content/uploads/2021/07/s2-cherry.png"),
+        url("https://kondangankuy.com/wp-content/uploads/2021/07/s3-cherry.png");
+    animation: snow 15s linear infinite;
+}
+
+@keyframes snow {
+    0% {
+        background-position: 0px 0px, 0px 0px, 0px 0px;
+    }
+    50% {
+        background-position: 500px 500px, 100px 200px, -100px 150px;
+    }
+    100% {
+        background-position: 500px 1000px, 200px 400px, -100px 300px;
+    }
+}
+
+.salju-green {
+    position: relative;
+}
+
+.salju-green:after {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: 11;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background-image: url("https://kondangankuy.com/wp-content/uploads/2021/08/s1-green.png"),
+        url("https://kondangankuy.com/wp-content/uploads/2021/08/s2-green.png"),
+        url("https://kondangankuy.com/wp-content/uploads/2021/08/s3-green.png");
+    animation: snow 25s linear infinite;
+}
+
+@keyframes snow {
+    0% {
+        background-position: 0px 0px, 0px 0px, 0px 0px;
+    }
+    50% {
+        background-position: 500px 500px, 100px 200px, -100px 150px;
+    }
+    100% {
+        background-position: 500px 1000px, 200px 400px, -100px 300px;
+    }
+}
+
+.salju-blue {
+    position: relative;
+}
+
+.salju-blue:after {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: 11;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background-image: url("https://kondangankuy.com/wp-content/uploads/2021/07/s1-blue2.png"),
+        url("https://kondangankuy.com/wp-content/uploads/2021/07/s2-blue.png"),
+        url("https://kondangankuy.com/wp-content/uploads/2021/07/s3-blue.png");
+    animation: snow 30s linear infinite;
+}
+
+@keyframes snow {
+    0% {
+        background-position: 0px 0px, 0px 0px, 0px 0px;
+    }
+    50% {
+        background-position: 500px 500px, 100px 200px, -100px 150px;
+    }
+    100% {
+        background-position: 500px 1000px, 200px 400px, -100px 300px;
+    }
+}
+
+.salju-sakura {
+    position: relative;
+}
+
+.salju-sakura:after {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: 11;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background-image: url("https://kondangankuy.com/wp-content/uploads/2021/08/s1-sakura.png"),
+        url("https://kondangankuy.com/wp-content/uploads/2021/08/s2-sakura.png"),
+        url("https://kondangankuy.com/wp-content/uploads/2021/08/s3-sakura.png");
+    animation: snow 10s linear infinite;
+}
+
+.salju-orange {
+    position: relative;
+}
+
+.salju-orange:after {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: 11;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background-image: url("https://kondangankuy.com/wp-content/uploads/2021/07/s1-orange.png"),
+        url("https://kondangankuy.com/wp-content/uploads/2021/07/s2-orange.png"),
+        url("https://kondangankuy.com/wp-content/uploads/2021/07/s3-orange.png");
+    animation: snow 25s linear infinite;
+}
+
+.salju-daun {
+    position: relative;
+}
+
+.salju-daun:after {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: 11;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background-image: url("https://kondangankuy.com/wp-content/uploads/2021/08/s1-daun2.png"),
+        url("https://kondangankuy.com/wp-content/uploads/2021/08/s2-daun2.png"),
+        url("https://kondangankuy.com/wp-content/uploads/2021/08/s3-daun.png");
+    animation: snow 30s linear infinite;
+} /* End custom CSS */
