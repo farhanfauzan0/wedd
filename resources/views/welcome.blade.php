@@ -28,12 +28,12 @@
     </style>
 
     <!-- Search Engine Optimization by Rank Math - https://s.rankmath.com/home -->
-    <title>Preview Paket Cattleya - Tema Golden White - KondanganKuy Indonesia</title>
+    <title>Wedding Invitation</title>
     <meta name="description" content="Invitation" />
     <meta name="robots" content="nofollow, noindex, noarchive, noimageindex" />
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
-    <meta property="og:title" content="Preview Paket Cattleya - Tema Golden White - KondanganKuy Indonesia">
+    <meta property="og:title" content="Wedding Invitation">
     <meta property="og:description" content="Invitation">
     <meta property="og:url" content="">
     <meta property="og:site_name" content="KondanganKuy Indonesia">
