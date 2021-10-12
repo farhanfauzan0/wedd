@@ -3323,12 +3323,14 @@ flexibility(document.documentElement);
                                                                     data-widget_type="image.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-image">
-                                                                            <img width="1024" height="123"
-                                                                                src="https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-indo-1024x123.jpg"
-                                                                                class="attachment-large size-large"
-                                                                                alt="" loading="lazy"
-                                                                                srcset="https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-indo-1024x123.jpg 1024w, https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-indo-300x36.jpg 300w, https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-indo-768x92.jpg 768w, https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-indo-1536x184.jpg 1536w, https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-indo.jpg 2038w"
-                                                                                sizes="(max-width: 1024px) 100vw, 1024px" />
+                                                                            <a onclick="openmaps()">
+                                                                                <img width="1024" height="123"
+                                                                                    src="https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-indo-1024x123.jpg"
+                                                                                    class="attachment-large size-large"
+                                                                                    alt="" loading="lazy"
+                                                                                    srcset="https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-indo-1024x123.jpg 1024w, https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-indo-300x36.jpg 300w, https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-indo-768x92.jpg 768w, https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-indo-1536x184.jpg 1536w, https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-indo.jpg 2038w"
+                                                                                    sizes="(max-width: 1024px) 100vw, 1024px" />
+                                                                            </a>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -3338,12 +3340,14 @@ flexibility(document.documentElement);
                                                                     data-widget_type="image.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-image">
-                                                                            <img width="1024" height="123"
-                                                                                src="https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-english-1024x123.jpg"
-                                                                                class="attachment-large size-large"
-                                                                                alt="" loading="lazy"
-                                                                                srcset="https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-english-1024x123.jpg 1024w, https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-english-300x36.jpg 300w, https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-english-768x92.jpg 768w, https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-english-1536x184.jpg 1536w, https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-english.jpg 2038w"
-                                                                                sizes="(max-width: 1024px) 100vw, 1024px" />
+                                                                            <a onclick="openmaps()">
+                                                                                <img width="1024" height="123"
+                                                                                    src="https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-english-1024x123.jpg"
+                                                                                    class="attachment-large size-large"
+                                                                                    alt="" loading="lazy"
+                                                                                    srcset="https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-english-1024x123.jpg 1024w, https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-english-300x36.jpg 300w, https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-english-768x92.jpg 768w, https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-english-1536x184.jpg 1536w, https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-english.jpg 2038w"
+                                                                                    sizes="(max-width: 1024px) 100vw, 1024px" />
+                                                                            </a>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -5422,6 +5426,22 @@ flexibility(document.documentElement);
 
             })
         })
+
+        function openmaps() {
+
+            // If it's an iPhone..
+            if ((navigator.platform.indexOf("iPhone") != -1) ||
+                (navigator.platform.indexOf("iPod") != -1) ||
+                (navigator.platform.indexOf("iPad") != -1))
+                window.open(
+                    "maps://www.google.com/maps/dir/?api=1&travelmode=driving&layer=traffic&destination=-6.896652094293074, 106.79091756469583"
+                );
+            else
+                window.open(
+                    "https://www.google.com/maps/dir/?api=1&travelmode=driving&layer=traffic&destination=-6.896652094293074, 106.79091756469583"
+                );
+
+        }
 
     </script>
     <div class="pafe-break-point" data-pafe-break-point-md="768" data-pafe-break-point-lg="1025"
