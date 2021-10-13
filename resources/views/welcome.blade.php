@@ -29,7 +29,7 @@
 
     <!-- Search Engine Optimization by Rank Math - https://s.rankmath.com/home -->
     <title>Wedding Invitation</title>
-    <meta name="description" content="Invitation" />
+    <meta name="description" content="Dina & Farhan" />
     <meta name="robots" content="nofollow, noindex, noarchive, noimageindex" />
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
