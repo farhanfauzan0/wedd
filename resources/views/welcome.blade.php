@@ -2006,8 +2006,8 @@ flexibility(document.documentElement);
     <!-- End Facebook Pixel Code -->
     <link rel="icon" href="{{ asset('img/favicon.ico') }}" sizes="32x32" />
     <link rel="icon" href="{{ asset('img/favicon.ico') }}" sizes="192x192" />
-    <link rel="apple-touch-icon" href="{{ asset('img/logo.png') }}" />
-    <meta name="msapplication-TileImage" content="{{ asset('img/logo.png') }}" />
+    <link rel="apple-touch-icon" href="{{ asset('img/cover.jpeg') }}" />
+    <meta name="msapplication-TileImage" content="{{ asset('img/cover.jpeg') }}" />
     <style>
         .pswp.pafe-lightbox-modal {
             display: none;
