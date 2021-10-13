@@ -3490,12 +3490,12 @@ flexibility(document.documentElement);
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-gallery__container">
                                                                             <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
-                                                                                href="{{ asset('img/galery1.png') }}"
+                                                                                href="{{ asset('img/galery1.jpeg') }}"
                                                                                 data-elementor-open-lightbox="yes"
                                                                                 data-elementor-lightbox-slideshow="all-8a6344f"
                                                                                 data-elementor-lightbox-title="4">
                                                                                 <div class="e-gallery-image elementor-gallery-item__image"
-                                                                                    data-thumbnail="{{ asset('img/galery1.png') }}"
+                                                                                    data-thumbnail="{{ asset('img/galery1.jpeg') }}"
                                                                                     data-width="768" data-height="512"
                                                                                     alt=""></div>
                                                                                 <div
@@ -3503,12 +3503,12 @@ flexibility(document.documentElement);
                                                                                 </div>
                                                                             </a>
                                                                             <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
-                                                                                href="{{ asset('img/galery2.png') }}"
+                                                                                href="{{ asset('img/galery2.jpeg') }}"
                                                                                 data-elementor-open-lightbox="yes"
                                                                                 data-elementor-lightbox-slideshow="all-8a6344f"
                                                                                 data-elementor-lightbox-title="5">
                                                                                 <div class="e-gallery-image elementor-gallery-item__image"
-                                                                                    data-thumbnail="{{ asset('img/galery2.png') }}"
+                                                                                    data-thumbnail="{{ asset('img/galery2.jpeg') }}"
                                                                                     data-width="768" data-height="512"
                                                                                     alt=""></div>
                                                                                 <div
@@ -3529,12 +3529,25 @@ flexibility(document.documentElement);
                                                                                 </div>
                                                                             </a>
                                                                             <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
-                                                                                href="{{ asset('img/galery4.png') }}"
+                                                                                href="{{ asset('img/galery4.jpeg') }}"
                                                                                 data-elementor-open-lightbox="yes"
                                                                                 data-elementor-lightbox-slideshow="all-8a6344f"
                                                                                 data-elementor-lightbox-title="7">
                                                                                 <div class="e-gallery-image elementor-gallery-item__image"
-                                                                                    data-thumbnail="{{ asset('img/galery4.png') }}"
+                                                                                    data-thumbnail="{{ asset('img/galery4.jpeg') }}"
+                                                                                    data-width="768" data-height="1152"
+                                                                                    alt=""></div>
+                                                                                <div
+                                                                                    class="elementor-gallery-item__overlay">
+                                                                                </div>
+                                                                            </a>
+                                                                            <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
+                                                                                href="{{ asset('img/galery5.jpeg') }}"
+                                                                                data-elementor-open-lightbox="yes"
+                                                                                data-elementor-lightbox-slideshow="all-8a6344f"
+                                                                                data-elementor-lightbox-title="7">
+                                                                                <div class="e-gallery-image elementor-gallery-item__image"
+                                                                                    data-thumbnail="{{ asset('img/galery5.jpeg') }}"
                                                                                     data-width="768" data-height="1152"
                                                                                     alt=""></div>
                                                                                 <div
@@ -4608,7 +4621,7 @@ flexibility(document.documentElement);
                                             data-widget_type="weddingpress-wellcome.default">
                                             <div class="elementor-widget-container">
 
-                                                <div class="modalx" data-sampul='{{ asset('img/galery4.png') }}'>
+                                                <div class="modalx" data-sampul='{{ asset('img/cover.jpeg') }}'>
 
                                                     <div class="overlayy"></div>
                                                     <div class="content-modalx">
