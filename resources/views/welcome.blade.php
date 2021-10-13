@@ -31,14 +31,14 @@
     <title>Wedding Invitation</title>
     <meta name="description" content="Dina & Farhan" />
     <meta name="robots" content="nofollow, noindex, noarchive, noimageindex" />
-    <meta property="og:locale" content="en_US">
+    <meta property="og:locale" content="id_ID">
     <meta property="og:type" content="article">
     <meta property="og:title" content="Dina & Farhan">
     <meta property="og:description" content="Wedding Invitation">
     <meta property="og:url" content="">
-    <meta property="og:site_name" content="Wedding Invitation">
+    <meta property="og:site_name" content="Dina & Farhan">
     <meta property="article:tag" content="protokol indonesia">
-    <meta property="article:section" content="Wedding Invitation">
+    <meta property="article:section" content="Dina & Farhan">
     {{-- <meta property="og:updated_time" content="2021-07-26T06:44:51+07:00"> --}}
     <meta property="og:image" content="{{ asset('img/cover.jpeg') }}">
     <meta property="og:image:secure_url" content="{{ asset('img/cover.jpeg') }}">
