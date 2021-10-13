@@ -2112,9 +2112,7 @@ flexibility(document.documentElement);
                                                 <div id="audio-container" class="audio-box">
 
                                                     <audio id="song" loop>
-                                                        <source
-                                                            src="https://kondangankuy.com/wp-content/uploads/2021/01/MUARA-Adera-Lyric-Video_2.mp3"
-                                                            type="audio/mp3">
+                                                        <source src="{{ asset('kahitna.mp3') }}" type="audio/mp3">
                                                     </audio>
 
                                                     <div class="elementor-icon-wrapper" id="unmute-sound"
@@ -3555,12 +3553,12 @@ flexibility(document.documentElement);
                                                                                 </div>
                                                                             </a>
                                                                             <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
-                                                                                href="{{ asset('img/galery4.png') }}"
+                                                                                href="{{ asset('img/galery6.jpeg') }}"
                                                                                 data-elementor-open-lightbox="yes"
                                                                                 data-elementor-lightbox-slideshow="all-8a6344f"
                                                                                 data-elementor-lightbox-title="7">
                                                                                 <div class="e-gallery-image elementor-gallery-item__image"
-                                                                                    data-thumbnail="{{ asset('img/galery4.png') }}"
+                                                                                    data-thumbnail="{{ asset('img/galery6.jpeg') }}"
                                                                                     data-width="768" data-height="1152"
                                                                                     alt=""></div>
                                                                                 <div
