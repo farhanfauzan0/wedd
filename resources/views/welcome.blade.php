@@ -3564,6 +3564,58 @@ flexibility(document.documentElement);
                                                                                     class="elementor-gallery-item__overlay">
                                                                                 </div>
                                                                             </a>
+                                                                            <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
+                                                                                href="{{ asset('img/galery10.jpg') }}"
+                                                                                data-elementor-open-lightbox="yes"
+                                                                                data-elementor-lightbox-slideshow="all-8a6344f"
+                                                                                data-elementor-lightbox-title="7">
+                                                                                <div class="e-gallery-image elementor-gallery-item__image"
+                                                                                    data-thumbnail="{{ asset('img/galery10.jpg') }}"
+                                                                                    data-width="768" data-height="1152"
+                                                                                    alt=""></div>
+                                                                                <div
+                                                                                    class="elementor-gallery-item__overlay">
+                                                                                </div>
+                                                                            </a>
+                                                                            <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
+                                                                                href="{{ asset('img/galery11.jpg') }}"
+                                                                                data-elementor-open-lightbox="yes"
+                                                                                data-elementor-lightbox-slideshow="all-8a6344f"
+                                                                                data-elementor-lightbox-title="7">
+                                                                                <div class="e-gallery-image elementor-gallery-item__image"
+                                                                                    data-thumbnail="{{ asset('img/galery11.jpg') }}"
+                                                                                    data-width="768" data-height="1152"
+                                                                                    alt=""></div>
+                                                                                <div
+                                                                                    class="elementor-gallery-item__overlay">
+                                                                                </div>
+                                                                            </a>
+                                                                            <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
+                                                                                href="{{ asset('img/galery12.jpg') }}"
+                                                                                data-elementor-open-lightbox="yes"
+                                                                                data-elementor-lightbox-slideshow="all-8a6344f"
+                                                                                data-elementor-lightbox-title="7">
+                                                                                <div class="e-gallery-image elementor-gallery-item__image"
+                                                                                    data-thumbnail="{{ asset('img/galery12.jpg') }}"
+                                                                                    data-width="768" data-height="1152"
+                                                                                    alt=""></div>
+                                                                                <div
+                                                                                    class="elementor-gallery-item__overlay">
+                                                                                </div>
+                                                                            </a>
+                                                                            <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
+                                                                                href="{{ asset('img/galery13.jpg') }}"
+                                                                                data-elementor-open-lightbox="yes"
+                                                                                data-elementor-lightbox-slideshow="all-8a6344f"
+                                                                                data-elementor-lightbox-title="7">
+                                                                                <div class="e-gallery-image elementor-gallery-item__image"
+                                                                                    data-thumbnail="{{ asset('img/galery13.jpg') }}"
+                                                                                    data-width="768" data-height="1152"
+                                                                                    alt=""></div>
+                                                                                <div
+                                                                                    class="elementor-gallery-item__overlay">
+                                                                                </div>
+                                                                            </a>
                                                                         </div>
                                                                     </div>
                                                                 </div>
