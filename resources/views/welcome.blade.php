@@ -2531,10 +2531,10 @@ flexibility(document.documentElement);
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-image">
                                                                             <img width="749" height="746"
-                                                                                src="{{ asset('img/foto-profil-farhan.png') }}"
+                                                                                src="{{ asset('img/foto-profil-farhan1.png') }}"
                                                                                 class="attachment-medium_large size-medium_large"
                                                                                 alt="" loading="lazy"
-                                                                                srcset="{{ asset('img/foto-profil-farhan.png') }} 749w, https://kondangankuy.com/wp-content/uploads/2021/07/profil-pria-william-preview-2-300x300.png 300w, https://kondangankuy.com/wp-content/uploads/2021/07/profil-pria-william-preview-2-150x150.png 150w"
+                                                                                srcset="{{ asset('img/foto-profil-farhan1.png') }} 749w, https://kondangankuy.com/wp-content/uploads/2021/07/profil-pria-william-preview-2-300x300.png 300w, https://kondangankuy.com/wp-content/uploads/2021/07/profil-pria-william-preview-2-150x150.png 150w"
                                                                                 sizes="(max-width: 749px) 100vw, 749px" />
                                                                         </div>
                                                                     </div>
@@ -2611,10 +2611,10 @@ flexibility(document.documentElement);
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-image">
                                                                             <img width="749" height="746"
-                                                                                src="{{ asset('img/foto-profil-dina.png') }}"
+                                                                                src="{{ asset('img/foto-profil-dina1.png') }}"
                                                                                 class="attachment-medium_large size-medium_large"
                                                                                 alt="" loading="lazy"
-                                                                                srcset="{{ asset('img/foto-profil-dina.png') }} 749w, https://kondangankuy.com/wp-content/uploads/2021/07/profil-wanita-wenny-preview-2-300x300.png 300w, https://kondangankuy.com/wp-content/uploads/2021/07/profil-wanita-wenny-preview-2-150x150.png 150w"
+                                                                                srcset="{{ asset('img/foto-profil-dina1.png') }} 749w, https://kondangankuy.com/wp-content/uploads/2021/07/profil-wanita-wenny-preview-2-300x300.png 300w, https://kondangankuy.com/wp-content/uploads/2021/07/profil-wanita-wenny-preview-2-150x150.png 150w"
                                                                                 sizes="(max-width: 749px) 100vw, 749px" />
                                                                         </div>
                                                                     </div>
