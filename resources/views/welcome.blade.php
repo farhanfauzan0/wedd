@@ -34,7 +34,7 @@
     <meta property="og:locale" content="id_ID">
     <meta property="og:type" content="article">
     <meta property="og:title" content="Dina & Farhan">
-    <meta property="og:description" content="Wedding Invitation">
+    <meta property="og:description" content="Save the Date 24-Oktober-2021">
     <meta property="og:url" content="">
     <meta property="og:site_name" content="Dina & Farhan">
     <meta property="article:tag" content="protokol indonesia">
