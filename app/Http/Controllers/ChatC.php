@@ -16,7 +16,10 @@ class ChatC extends Controller
 
     function post(Request $request)
     {
-        // dd($request->all());
+        $check = Chat::select('nama')->wherenama($request->guestbook_name)->first();
+        if (!empty($check->nama)) {
+            return false;
+        }
         $in = Chat::insert([
             'nama' => $request->guestbook_name,
             'chat' => $request->guestbook_message,
