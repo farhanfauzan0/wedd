@@ -15,10 +15,10 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-// Route::get('/{tamu?}', [ChatC::class, 'index']);
-// Route::post('/post_chat', [ChatC::class, 'post'])->name('post.chat');
-// Route::post('/post_rsv', [RsvC::class, 'post_rsv'])->name('post.rsv');
+Route::get('/{tamu?}', [ChatC::class, 'index']);
+Route::post('/post_chat', [ChatC::class, 'post'])->name('post.chat');
+Route::post('/post_rsv', [RsvC::class, 'post_rsv'])->name('post.rsv');
 
-Route::get('/', function () {
-    echo "Thanks :)";
-});
+// Route::get('/', function () {
+//     echo "Thanks :)";
+// });
